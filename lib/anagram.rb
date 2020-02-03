@@ -1,5 +1,5 @@
 class Anagram
   
-  attr_accessor :name
+  attr_accessor :word 
   
 end
