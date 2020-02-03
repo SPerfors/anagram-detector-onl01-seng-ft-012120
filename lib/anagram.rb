@@ -7,7 +7,8 @@ class Anagram
   end
   
   def match(anagram_array)
-    anagram_array.
+    anagram_array.find_all do |anagram|
+      
   end
   
 end
